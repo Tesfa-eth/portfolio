@@ -1,6 +1,17 @@
 {
   "/_app": "pages/_app.js",
+  "/avatar": "pages/avatar.html",
+  "/header": "pages/header.html",
+  "/": "pages/index.html",
+  "/nav": "pages/nav.html",
+  "/portfolioCard": "pages/portfolioCard.html",
+  "/portfolioText": "pages/portfolioText.html",
+  "/socialMediaIcons": "pages/socialMediaIcons.html",
+  "/whatIDo": "pages/whatIDo.html",
+  "/subTitle": "pages/subTitle.html",
+  "/about": "pages/about.html",
   "/_error": "pages/_error.js",
+  "/api/hello": "pages/api/hello.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js"
+  "/404": "pages/404.html"
 }

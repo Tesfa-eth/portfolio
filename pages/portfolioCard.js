@@ -4,7 +4,7 @@ import Image from "next/legacy/image";
 export default function PortfolioCard({image}) {
   return (
     <div className='basis-1/3 flex-1 bg-slate-600 rounded-lg '>
-        <div class="relative bg-black">
+        <div className="relative bg-black">
         <Image src={image} className='object-cover rounded-lg' width={'100%'} height={'100%'} layout='responsive'/>
         <ul>
             <li className='absolute bottom-14 left-16 h-8 w-44 bg-gradient-to-r from-cyan-500 to-teal-800 text-center rounded md:bottom-20 md:left-36 md:h-16 md:w-80 md:pt-2 hover:to-white'>

@@ -6,7 +6,7 @@ import avatar from '../public/avatar.jpg';
 import Avatar from './avatar';
 import WhatIDo from './whatIDo';
 import PortfolioCard from './portfolioCard';
-import Card from './card';
+import Card from '../components/card';
 import PortfolioText from './portfolioText';
 import Image from "next/legacy/image";
 import { useState } from 'react';
